@@ -1,5 +1,5 @@
-{
-  "$schema": "http://json-schema.org/draft-06/schema#",
+{"json_schema" : {
+  "schema": "http://json-schema.org/draft-06/schema#",
   "id": "http://hl7.org/fhir/json-schema/4.0",
   "description": "see http://hl7.org/fhir/json.html#schema for information about the FHIR Json Schemas",
   "discriminator": {
@@ -60880,4 +60880,4 @@
       "additionalProperties": false
     }
   }
-}
+}}
